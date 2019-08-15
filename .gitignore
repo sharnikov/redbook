@@ -1,0 +1,23 @@
+# Specific file types
+*.sc
+*.class
+*.log
+
+# SBT folders
+**/target
+/test-output
+/project/target
+/project/project
+.cache
+.history
+.lib
+
+# Intellij Idea
+*.iml
+*.xml
+*.ipr
+*.iws
+.idea
+out
+
+!logback.xml
